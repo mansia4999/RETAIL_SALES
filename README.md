@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-''' sql
+
 CREATE DATABASE retail_sales_roject1;
 
 CREATE TABLE retail_sales
@@ -190,4 +190,4 @@ with A
 		count(*)as total_orders
 	from A
 	group by shift
-'''
+
